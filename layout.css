@@ -1,14 +1,12 @@
-/* @media(max-width:700px){
-
-put div in here to make it change when moblie size 
-
-}  */
-  
-
-  
-  
-  
-  #div_a {
+@media(min-width:768px){
+  body {
+    margin: auto; 
+   width: 960px;
+   height: 768px;
+ background-color: bisque;
+ }
+   
+#div_a {
     border: rgb(5, 82, 62) solid 1px;
     width: 960px;
     height: 100px;
@@ -90,7 +88,7 @@ put div in here to make it change when moblie size
     background: yellowgreen;
     line-height: 150px;
     text-align: center;
-  }
+  }}
 
 
   

@@ -1,47 +1,64 @@
-@media(max-width:768px){
+@media(max-width:767px){
 
-  
-  
- 
-
-
+  body {
+    margin: auto; 
+   width: 480px;
+   height: 767px;
+ background-color: blanchedalmond;
+ }
 
 #div_a {
   border: rgb(5, 82, 62) solid 1px;
   width: 480px;
   height: 75px;
-  margin: auto;
+  
   background: rgb(130, 129, 230);
+  
+  line-height: 75px;
+  text-align: center;
 }
 #div_b {
   border: rgb(5, 82, 62) solid 1px;
   width: 480px;
   height: 150px;
+  
   background: rgb(130, 129, 230);
-float: left;
+  
+  line-height: 150px;
+  text-align: center;
+
+
 }
 
-#div_c {
+ #div_c {
   border: rgb(5, 82, 62) solid 1px;
   width: 480px;
   height: 125px;
-  margin: auto;
-  float: left;
+  
   background: rgb(130, 129, 230);
+  line-height: 125px;
+  text-align: center;
 }
+
 #div_d {
   border: rgb(5, 82, 62) solid 1px;
   width: 480px;
   height: 125px;
-  float: left;
+  
   background: rgb(130, 129, 230);
+  line-height: 125px;
+  text-align: center;
+
 }
+
 #div_e {
   border: rgb(5, 82, 62) solid 1px;
   width: 240px;
   height: 250px;
   float: left;
   background: rgb(130, 129, 230);
+  line-height: 250px;
+  text-align: center;
 }
 #div_f {
   border: rgb(5, 82, 62) solid 1px;
@@ -49,20 +66,26 @@ float: left;
   height: 250px;
   float: left;
   background: rgb(130, 129, 230);
+  line-height: 250px;
+  text-align: center;
 }
 #div_g {
   border: rgb(5, 82, 62) solid 1px;
   width: 240px;
   height: 250px;
   float: left;
+  line-height: 250px;
+  text-align: center;
   background: rgb(130, 129, 230);
 }
 #div_h {
   border: rgb(5, 82, 62) solid 1px;
   width: 240px;
   height: 250px;
-  float: left;
+ float: left;
   background: rgb(130, 129, 230);
+  line-height: 250px;
+  text-align: center;
 }
 #div_i {
   border: rgb(5, 82, 62) solid 1px;
@@ -70,4 +93,6 @@ float: left;
   height: 80px;
   float: left;
   background: rgb(130, 129, 230);
+  line-height: 80px;
+  text-align: center;
 }}
