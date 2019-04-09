@@ -1,0 +1,73 @@
+@media(max-width:768px){
+
+  
+  
+ 
+
+
+
+#div_a {
+  border: rgb(5, 82, 62) solid 1px;
+  width: 480px;
+  height: 75px;
+  margin: auto;
+  background: rgb(130, 129, 230);
+}
+#div_b {
+  border: rgb(5, 82, 62) solid 1px;
+  width: 480px;
+  height: 150px;
+  background: rgb(130, 129, 230);
+float: left;
+}
+
+#div_c {
+  border: rgb(5, 82, 62) solid 1px;
+  width: 480px;
+  height: 125px;
+  margin: auto;
+  float: left;
+  background: rgb(130, 129, 230);
+}
+#div_d {
+  border: rgb(5, 82, 62) solid 1px;
+  width: 480px;
+  height: 125px;
+  float: left;
+  background: rgb(130, 129, 230);
+}
+#div_e {
+  border: rgb(5, 82, 62) solid 1px;
+  width: 240px;
+  height: 250px;
+  float: left;
+  background: rgb(130, 129, 230);
+}
+#div_f {
+  border: rgb(5, 82, 62) solid 1px;
+  width: 240px;
+  height: 250px;
+  float: left;
+  background: rgb(130, 129, 230);
+}
+#div_g {
+  border: rgb(5, 82, 62) solid 1px;
+  width: 240px;
+  height: 250px;
+  float: left;
+  background: rgb(130, 129, 230);
+}
+#div_h {
+  border: rgb(5, 82, 62) solid 1px;
+  width: 240px;
+  height: 250px;
+  float: left;
+  background: rgb(130, 129, 230);
+}
+#div_i {
+  border: rgb(5, 82, 62) solid 1px;
+  width: 480px;
+  height: 80px;
+  float: left;
+  background: rgb(130, 129, 230);
+}}
